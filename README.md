@@ -7,16 +7,15 @@
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
-- <b>AWS Ninja (AWS Lambda, Python ) - a governance project used to optimize and manage AWS resources.</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Automate Kubernetes Cluster Security Enforcement(kyverno, ArgoCD).</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</i>
+- <b>AWS Ninja</b> (<i>AWS Lambda, Python </i>) 
+  - [Governance project used to optimize and manage AWS resources](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Automate Kubernetes Cluster Security Enforcement.</b>
+  - [Using kyverno policy generator and ArgoCD.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Gitlab CI Pipeline Implementation</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-    </b>
-- <b>Cloud Native Voting Application deployed on AWS EKS(React, Golang API, MongoDB, Kubernetes)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-    </b>
+  - [Full Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Cloud Native Voting Application deployed on AWS EKS</b>(<i>React, Golang API, MongoDB, Kubernetes</i>)
+  - [Microservices on Kuberenetes Cluster based on a 3-Tier Architecture](https://github.com/joshmadakor1/Algorithms-Practice)
+    
 
 
 <h2>📄 Certifications  </h2>
@@ -35,7 +34,7 @@
 
 
 [twitter]: https://twitter.com/presh09278210
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/channel/UCfQtO2KMj4Zh7x8b2yzl95g
 [linkedin]: https://www.linkedin.com/in/precious-o-36988b265/
 
 <!--
