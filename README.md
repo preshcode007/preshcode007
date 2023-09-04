@@ -8,13 +8,13 @@
 <h2>👨‍💻 DevOps Projects:</h2>
 
 - <b>AWS Ninja</b> (<i>AWS Lambda, Python </i>) 
-  - [Governance project used to optimize and manage AWS resources](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Governance project used to optimize and manage AWS resources](https://)
 - <b>Automate Kubernetes Cluster Security Enforcement.</b>
-  - [Using kyverno policy generator and ArgoCD.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Using kyverno policy generator and ArgoCD.](https) 
 - <b>Gitlab CI Pipeline Implementation</b>
-  - [Full Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Full Implementation](https://)
 - <b>Cloud Native Voting Application deployed on AWS EKS</b>(<i>React, Golang API, MongoDB, Kubernetes</i>)
-  - [Microservices on Kuberenetes Cluster based on a 3-Tier Architecture](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Microservices on Kuberenetes Cluster based on a 3-Tier Architecture](https:/)
     
 
 
