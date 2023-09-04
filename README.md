@@ -7,10 +7,17 @@
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>AWS Ninja (AWS Lambda, Python ) - a governance project used to optimize and manage AWS resources.</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Automate Kubernetes Cluster Security Enforcement(kyverno, ArgoCD).</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</i>
+- <b>Gitlab CI Pipeline Implementation</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+    </b>
+- <b>Cloud Native Voting Application deployed on AWS EKS(React, Golang API, MongoDB, Kubernetes)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+    </b>
+
 
 <h2>📄 Certifications  </h2>
 
