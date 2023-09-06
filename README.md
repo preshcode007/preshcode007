@@ -8,7 +8,7 @@
 <h2>👨‍💻 DevOps Projects:</h2>
 
 - <b>AWS Ninja</b> (<i>AWS Lambda, Python </i>) 
-  - [Governance project used to optimize and manage AWS resources](https://)
+  - [Governance project used to optimize and manage AWS resources](https://github.com/preshcode007/AWS_Ninja/tree/main)
 - <b>Ant Authority.</b>(<i> Kyverno, ArgoCD, Kubernetes </i>)
   - [A Kubernetes Cluster Security project using kyverno policy generator and ArgoCD to automate security enforcement.](https://github.com/preshcode007/kubernetes-kyverno-argoCD/tree/main) 
 - <b>Gitlab CI Pipeline Implementation</b>
