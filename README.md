@@ -14,7 +14,7 @@
 - <b>Gitlab CI Pipeline Implementation</b>
   - [Full Implementation](https://)
 - <b>Cloud Native Voting Application deployed on AWS EKS</b>(<i>React, Golang API, MongoDB, Kubernetes</i>)
-  - [Microservices on Kuberenetes Cluster based on a 3-Tier Architecture](https:/)
+  - [Microservices on Kuberenetes Cluster based on a 3-Tier Architecture](https://github.com/preshcode007/cloud-native-voting-app/tree/main)
     
 
 
