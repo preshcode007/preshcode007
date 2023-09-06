@@ -12,7 +12,7 @@
 - <b>Ant Authority.</b>(<i> Kyverno, ArgoCD, Kubernetes </i>)
   - [A Kubernetes Cluster Security project using kyverno policy generator and ArgoCD to automate security enforcement.](https://github.com/preshcode007/kubernetes-kyverno-argoCD/tree/main) 
 - <b>Gitlab CI Pipeline Implementation</b>
-  - [Full Implementation](https://)
+  - [Full Implementation](https://github.com/preshcode007/Gitlab_CI/tree/main)
 - <b>The Honey Bee project</b>(<i>React, Golang API, MongoDB, Kubernetes</i>)
   - [a Cloud Native Voting Application deployed on AWS EKS using Microservices on Kuberenetes Cluster based on a 3-Tier Architecture](https://github.com/preshcode007/cloud-native-voting-app/tree/main)
     
