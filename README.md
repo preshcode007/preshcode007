@@ -9,12 +9,12 @@
 
 - <b>AWS Ninja</b> (<i>AWS Lambda, Python </i>) 
   - [Governance project used to optimize and manage AWS resources](https://)
-- <b>Ant Authority.</b>
+- <b>Ant Authority.</b>(<i> Kyverno, ArgoCD, Kubernetes </i>)
   - [A Kubernetes Cluster Security project using kyverno policy generator and ArgoCD to automate security enforcement.](https://github.com/preshcode007/kubernetes-kyverno-argoCD/tree/main) 
 - <b>Gitlab CI Pipeline Implementation</b>
   - [Full Implementation](https://)
-- <b>Cloud Native Voting Application deployed on AWS EKS</b>(<i>React, Golang API, MongoDB, Kubernetes</i>)
-  - [Microservices on Kuberenetes Cluster based on a 3-Tier Architecture](https://github.com/preshcode007/cloud-native-voting-app/tree/main)
+- <b>The Honey Bee project</b>(<i>React, Golang API, MongoDB, Kubernetes</i>)
+  - [a Cloud Native Voting Application deployed on AWS EKS using Microservices on Kuberenetes Cluster based on a 3-Tier Architecture](https://github.com/preshcode007/cloud-native-voting-app/tree/main)
     
 
 
